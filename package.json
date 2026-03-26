@@ -3,6 +3,7 @@
   "name": "bohh-website",
   "version": "1.0.0",
   "description": "Black Orchid Honor House Official Website",
+  "type": "module",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
