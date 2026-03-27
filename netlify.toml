@@ -3,6 +3,9 @@
   command = "npm run build"
   publish = "dist"
 
+[build.environment]
+  NODE_VERSION = "18.20.8"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
@@ -18,7 +21,3 @@
 
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
-
-# Form submission redirects
-[form]
-  settings.success_url = "/thank-you.html"
