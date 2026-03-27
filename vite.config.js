@@ -9,6 +9,12 @@ export default defineConfig({
     assetsDir: 'assets',
     sourcemap: false,
     minify: 'terser',
+    rollupOptions: {
+      input: {
+        main: './index.html',
+        thankyou: './thank-you.html'
+      }
+    }
   },
   server: {
     port: 3000,
