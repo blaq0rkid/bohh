@@ -254,6 +254,7 @@ const ContactForm = () => {
       name="contact"
       method="POST"
       data-netlify="true"
+      action="/thank-you.html"
       className="bg-white rounded-lg shadow-lg p-8"
     >
       <input type="hidden" name="form-name" value="contact" />
@@ -344,6 +345,7 @@ const VolunteerForm = () => {
       name="volunteer"
       method="POST"
       data-netlify="true"
+      action="/thank-you.html"
       className="bg-white rounded-lg shadow-lg p-8"
     >
       <input type="hidden" name="form-name" value="volunteer" />
