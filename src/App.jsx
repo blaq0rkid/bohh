@@ -4,44 +4,69 @@ import { Menu, X, Mail, Phone, MapPin, Calendar, ArrowLeft } from 'lucide-react'
 
 // Blog posts data - You can easily add new posts here
 const blogPosts = [
+    {  
+  "id": 4,  
+  "title": "Community Engagement: The Heart of the Radiant Honor Roadmap™",  
+  "date": "2026-03-27",  
+  "author": "BOHH Team",  
+  "excerpt": "Discover how community engagement initiatives and local support empower veterans and survivors through the Radiant Honor Roadmap™.",  
+  "content": "At Black Orchid Honor House (BOHH), we recognize that true restoration requires more than just a place to stay: it requires a place to belong. While our primary focus remains on housing and immediate safety, the long-term success of our participants is deeply rooted in the strength of our community engagement initiatives. The Radiant Honor Roadmap™ is designed not just as a path for the individual, but as a bridge connecting them back to a supportive, vibrant society.\n\nFor veterans and survivors of domestic violence, the journey toward healing often begins in isolation. Our mission is to transform that isolation into integration. By fostering local community support, we create an environment where dignity is the standard and empowerment is the result.\n\n**The Power of Social Impact Programs**\n\nOur social impact programs are the engine behind the Radiant Honor Roadmap™. These initiatives are specifically designed to address the complex needs of those transitioning from crisis to stability. We believe that when the community invests in the well-being of its most vulnerable members, everyone prospers. \n\nThrough structured engagement, we offer:\n- **Mentorship Circles:** Connecting participants with community leaders to build professional and personal networks.\n- **Skill-Sharing Workshops:** Local professionals volunteering their time to teach financial literacy, vocational skills, and wellness practices.\n- **Advocacy Networks:** Raising awareness about the unique challenges faced by veterans and survivors to foster a more empathetic local environment.\n\n**Building Through Local Community Support**\n\nSuccess at BOHH is a collaborative effort. We rely on partnerships with local businesses, civic groups, and individual donors to ensure our programs remain robust and effective. This local community support is what allows us to maintain the high standard of care that our participants deserve. When a local business partners with us, they aren't just donating; they are participating in a movement of honor and restoration.\n\n**The Radiant Impact of Volunteers**\n\nVolunteers are the heartbeat of our organization. Every hour contributed by a community member acts as a catalyst for change within the Radiant Honor Roadmap™. Whether it is helping maintain our housing facilities or providing administrative support, our volunteers embody the spirit of service that defines BOHH. Their presence sends a powerful message to our participants: *You are not alone, and your community stands with you.*\n\n**Join the Movement Today**\n\nWe invite you to become an active part of our social impact programs. There are many ways to engage with the Radiant Honor Roadmap™ and help us build a future defined by dignity and hope.\n\n- **Partner With Us:** If you represent a local business, let’s discuss how we can work together to support our heroes and survivors.\n- **Volunteer Your Time:** Visit [https://bohh.org](https://bohh.org) to explore our current volunteer opportunities and sign up for an orientation.\n- **Spread the Word:** Share our mission with your network to help us grow our local support base.\n\nTogether, we can ensure that every individual walking the Radiant Honor Roadmap™ has the community support they need to thrive. Visit our website at [https://bohh.org](https://bohh.org) to learn more about how you can make a difference today.",  
+  "image": "https://cdn.marblism.com/j4JlJC7BD-7.webp"  
+},
+    {  
+id: 3,  
+title: "The Power of Partnership: Building a Thriving Community",  
+date: "2026-04-03",  
+author: "BOHH Team",  
+excerpt: "Discover how our community partnerships and volunteer efforts drive the 'Community Thriving' blueprint through the Radiant Honor Roadmap™.",  
+content: `At Black Orchid Honor House, we believe that true transformation is never a solitary journey. It is a collective effort, a weaving together of diverse hands, hearts, and resources. Our mission to provide stable housing and dignity-based support for veterans and survivors of domestic violence is fueled by a simple truth: we are stronger together.
+
+Building a thriving community requires more than just providing a roof—it requires a commitment to the **Radiant Honor Roadmap™**, our strategic blueprint designed to move individuals from crisis to contribution. This journey is made possible through the unwavering support of our partners and volunteers.
+
+**The Radiant Honor Roadmap™: Our Blueprint for Success**
+
+The Radiant Honor Roadmap™ is not just a service model; it is a promise of dignity. It focuses on holistic stability, ensuring that every person who enters our program is met with respect and a clear path forward. By aligning our community services with this roadmap, we ensure that every contribution—whether it is a financial donation or a volunteer’s time—directly supports long-term housing stability and personal empowerment.
+
+**The Heartbeat of Impact: Our Volunteers**
+
+Volunteers are the lifeblood of Black Orchid Honor House. They bring the Radiant Honor Roadmap™ to life through their daily actions. From mentoring residents to assisting with facility beautification, their presence reminds our veterans and survivors that they are seen, valued, and supported by their neighbors.
+
+- **Skill-Based Mentorship:** Sharing professional expertise to help residents navigate new career paths.  
+- **Community Presence:** Providing a welcoming environment that fosters a sense of belonging.  
+- **Resource Coordination:** Helping manage the vital supplies that keep our houses running smoothly.
+
+**Collaborating for Collective Benefit**
+
+Our partnerships with local businesses, healthcare providers, and civic organizations expand our reach and deepen our impact. These alliances allow us to provide a comprehensive support system that no single organization could offer alone. By pooling our expertise, we create a safety net that is both wide and strong, ensuring that the "Community Thriving" blueprint becomes a reality for everyone we serve.
+
+**Join the Movement**
+
+Your involvement is the catalyst for change. Whether you choose to give your time or your resources, you are playing a vital role in building a more resilient and compassionate community.
+
+- **Volunteer Your Time:** Become a part of the team that makes our roadmap possible. [Sign up to volunteer here](https://bohh.org).  
+- **Make a Donation:** Your financial support provides the stability needed for veterans and survivors to thrive. [Donate today](https://bohh.org).
+
+Together, we are not just building houses; we are building hope and a future rooted in honor. Explore our mission further at [bohh.org](https://bohh.org).`,  
+image: "https://cdn.marblism.com/Z6Xfu1OKXgY.webp"  
+},
+    {  
+  "id": 2,  
+  "title": "Housing First: The Foundation for Healing",  
+  "date": "2026-04-01",  
+  "author": "BOHH Team",  
+  "excerpt": "At Black Orchid Honor House, we believe a safe place to call home is the first step toward stability and recovery.",  
+  "content": "At Black Orchid Honor House (BOHH), we operate on a principle that is as simple as it is revolutionary: housing is a human right. While traditional models of social service often require individuals to meet certain criteria: like sobriety or employment: before they are \"ready\" for a home, we believe that a home is the very thing that makes those milestones possible. This is the essence of the \"Housing First\" approach.\n\nInspired by the successful Finnish model, which has nearly eradicated long-term homelessness in its borders, BOHH centers its mission on providing immediate, stable housing without prerequisites. We understand that for veterans and survivors of domestic violence, the journey to recovery cannot truly begin until the most basic need for safety and shelter is met.\n\n**The Foundation of the Radiant Roadmap**\n\nThe **Radiant Roadmap** is our framework for holistic healing, and housing stability serves as its absolute base. When an individual has a safe space to call their own, the constant, draining pressure of survival begins to lift. This shift from \"survival mode\" to \"stability mode\" is essential for the rest of the roadmap to take effect.\n\nBy securing a home first, our participants gain the mental and physical bandwidth to engage with our other core services effectively:\n- **Consistent Therapy:** It is incredibly difficult to process trauma when you don't know where you will sleep tonight.\n- **Career Development:** Having a permanent address makes job hunting significantly more achievable.\n- **Healthcare Management:** Managing health requires a stable environment for rest and medication storage.\n\n**Empowerment through Dignity**\n\nHousing First is about more than just a roof; it is about dignity. By trusting our participants with a home from day one, we reinforce their inherent value as members of our community. This trust acts as a powerful catalyst for change.",  
+  "image": "https://cdn.marblism.com/jpD9bxGsKRp.webp"  
+},
    {  
-  id: 1,  
-  title: "The Honor Difference: Why Dignity is Our Foundation",  
-  date: "2026-03-30",  
-  author: "BOHH Team",  
-  excerpt: "Join us as we explore how Black Orchid Honor House centers dignity through the Radiant Roadmap to empower veterans and survivors in our community.",  
-  content: `At Black Orchid Honor House (BOHH), we often say that "Honor" isn’t just part of our name: it is our primary method of service. In the world of nonprofit support, it can be easy to focus solely on the crisis at hand. While meeting immediate needs is vital, we believe that true transformation only happens when support is rooted in dignity.
-
-The "Honor Difference" is our commitment to seeing the person before the problem. For veterans and survivors of domestic violence, the path to stability is often paved with challenges that affect more than just their physical safety; these challenges can chip away at their sense of self-worth. Our goal is to provide a foundation that restores that worth from day one.
-
-**The Radiant Roadmap: Our Framework for Success**
-
-Every person who walks through our doors is unique, but they all deserve a clear path forward. This is where our **Radiant Roadmap** comes in. This program framework is designed to provide holistic, dignity-based support that addresses the specific needs of those we serve, moving them from crisis to empowerment.
-
-Instead of a one-size-fits-all approach, the Radiant Roadmap focuses on:  
-- Restoring a sense of agency and personal choice  
-- Establishing long-term housing stability through dedicated initiatives  
-- Connecting individuals with community resources that respect their history  
-- Providing a supportive environment where healing and growth can begin
-
-**Empowerment Through Respect**
-
-For a veteran transitioning to civilian life or a survivor seeking safety, the loss of autonomy is often a heavy burden. By centering our services on dignity, we help individuals reclaim their voices. We aren't just providing "assistance"; we are building a partnership based on mutual respect.
-
-Whether it’s through our housing stability initiatives or our community support programs, the goal is always the same: to empower our participants to lead their own lives. When a person feels respected and heard, they are more likely to engage deeply with the tools needed for lasting change. We focus on impact and transformation, ensuring every success story is a testament to the resilience of the human spirit.
-
-**How You Can Make a Difference**
-
-The "Honor Difference" is fueled by the compassion of people like you. Our community partnerships and volunteer impact are the engines that keep the Radiant Roadmap moving forward. When you support BOHH, you aren't just donating to a nonprofit: you are investing in the inherent dignity of your neighbors.
-
-There are several ways to get involved today:  
-- **Volunteer:** Share your time and skills to help mentor and support our participants.  
-- **Donate:** Your contributions directly fund our empowerment initiatives and housing support.  
-- **Partner:** We collaborate with local organizations to create a stronger, more inclusive support network.
-
-If you are ready to help us build a community where everyone is treated with the honor they deserve, visit us at https://bohh.org to learn more about our current opportunities. Together, we can turn the roadmap into a reality.`,  
-  image: "https://cdn.marblism.com/WptQj6cXTTw.webp"  
-}  ,
+  "id": 1,  
+  "title": "The Honor Difference: Why Dignity is Our Foundation",  
+  "date": "2026-03-30",  
+  "author": "BOHH Team",  
+  "excerpt": "Join us as we explore how Black Orchid Honor House centers dignity through the Radiant Roadmap to empower veterans and survivors in our community.",  
+  "content": "At Black Orchid Honor House (BOHH), we often say that \"Honor\" isn’t just part of our name: it is our primary method of service. In the world of nonprofit support, it can be easy to focus solely on the crisis at hand. While meeting immediate needs is vital, we believe that true transformation only happens when support is rooted in dignity.\n\nThe \"Honor Difference\" is our commitment to seeing the person before the problem. For veterans and survivors of domestic violence, the path to stability is often paved with challenges that affect more than just their physical safety; these challenges can chip away at their sense of self-worth. Our goal is to provide a foundation that restores that worth from day one.\n\n**The Radiant Roadmap: Our Framework for Success**\n\nEvery person who walks through our doors is unique, but they all deserve a clear path forward. This is where our **Radiant Roadmap** comes in. This program framework is designed to provide holistic, dignity-based support that addresses the specific needs of those we serve, moving them from crisis to empowerment.\n\nInstead of a one-size-fits-all approach, the Radiant Roadmap focuses on:\n- Restoring a sense of agency and personal choice\n- Establishing long-term housing stability through dedicated initiatives\n- Connecting individuals with community resources that respect their history\n- Providing a supportive environment where healing and growth can begin\n\n**Empowerment Through Respect**\n\nFor a veteran transitioning to civilian life or a survivor seeking safety, the loss of autonomy is often a heavy burden. By centering our services on dignity, we help individuals reclaim their voices. We aren't just providing \"assistance\"; we are building a partnership based on mutual respect.\n\nWhether it’s through our housing stability initiatives or our community support programs, the goal is always the same: to empower our participants to lead their own lives. When a person feels respected and heard, they are more likely to engage deeply with the tools needed for lasting change. We focus on impact and transformation, ensuring every success story is a testament to the resilience of the human spirit.\n\n**How You Can Make a Difference**\n\nThe \"Honor Difference\" is fueled by the compassion of people like you. Our community partnerships and volunteer impact are the engines that keep the Radiant Roadmap moving forward. When you support BOHH, you aren't just donating to a nonprofit: you are investing in the inherent dignity of your neighbors.",  
+  "image": "https://cdn.marblism.com/WptQj6cXTTw.webp"  
+},
   {
     id: 1000000000,
     title: "Building Stronger Communities Through Support",
