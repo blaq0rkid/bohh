@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +34,7 @@
   <title>Black Orchid Honor House | Empowering Lives, Building Stronger Communities</title>
   
   <!-- Netlify Forms - Static HTML forms for detection -->
-  <form name="contact" netlify netlify-honeypot="bot-field" action="/thank-you.html" hidden>
+  <form name="contact" netlify hidden>
     <input type="text" name="name" />
     <input type="email" name="email" />
     <input type="text" name="subject" />
@@ -41,7 +42,7 @@
     <input type="checkbox" name="privacy" />
   </form>
   
-  <form name="volunteer" netlify netlify-honeypot="bot-field" action="/thank-you.html" hidden>
+  <form name="volunteer" netlify hidden>
     <input type="text" name="name" />
     <input type="email" name="email" />
     <input type="tel" name="phone" />
@@ -62,7 +63,6 @@
   </form>
   
   <style>
-    /* Accessibility and smooth scrolling */
     html {
       scroll-behavior: smooth;
     }
@@ -76,7 +76,6 @@
       -moz-osx-font-smoothing: grayscale;
     }
     
-    /* Loading spinner */
     .loading-spinner {
       display: flex;
       justify-content: center;
@@ -98,7 +97,6 @@
       to { transform: rotate(360deg); }
     }
     
-    /* Skip to main content link for accessibility */
     .skip-link {
       position: absolute;
       top: -40px;
@@ -118,27 +116,20 @@
 <body>
   <noscript>You need to enable JavaScript to run this application.</noscript>
   
-  <!-- Skip link for accessibility -->
   <a href="#main-content" class="skip-link">Skip to main content</a>
   
-  <!-- Loading spinner shown while React loads -->
   <div id="root">
     <div class="loading-spinner">
       <div class="spinner"></div>
     </div>
   </div>
   
-  <!-- Main content anchor for skip link -->
   <div id="main-content"></div>
   
-  <!-- Success message display for form submissions -->
   <script>
-    // Display success message if redirected from Netlify form submission
-    const urlParams = new URLSearchParams(window.location.search);
-    if (urlParams.get('success') === 'true') {
-      setTimeout(() => {
-        alert('Thank you for your submission! We will get back to you soon.');
-      }, 500);
+    // Netlify form redirect handler
+    if (window.location.search.includes('success=true')) {
+      window.location.href = '/thank-you.html';
     }
   </script>
   
