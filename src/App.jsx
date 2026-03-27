@@ -4,8 +4,46 @@ import { Menu, X, Mail, Phone, MapPin, Calendar, ArrowLeft } from 'lucide-react'
 
 // Blog posts data - You can easily add new posts here
 const blogPosts = [
+   {  
+  id: 1,  
+  title: "The Honor Difference: Why Dignity is Our Foundation",  
+  date: "2026-03-30",  
+  author: "BOHH Team",  
+  excerpt: "Join us as we explore how Black Orchid Honor House centers dignity through the Radiant Roadmap to empower veterans and survivors in our community.",  
+  content: `At Black Orchid Honor House (BOHH), we often say that "Honor" isn’t just part of our name: it is our primary method of service. In the world of nonprofit support, it can be easy to focus solely on the crisis at hand. While meeting immediate needs is vital, we believe that true transformation only happens when support is rooted in dignity.
+
+The "Honor Difference" is our commitment to seeing the person before the problem. For veterans and survivors of domestic violence, the path to stability is often paved with challenges that affect more than just their physical safety; these challenges can chip away at their sense of self-worth. Our goal is to provide a foundation that restores that worth from day one.
+
+**The Radiant Roadmap: Our Framework for Success**
+
+Every person who walks through our doors is unique, but they all deserve a clear path forward. This is where our **Radiant Roadmap** comes in. This program framework is designed to provide holistic, dignity-based support that addresses the specific needs of those we serve, moving them from crisis to empowerment.
+
+Instead of a one-size-fits-all approach, the Radiant Roadmap focuses on:  
+- Restoring a sense of agency and personal choice  
+- Establishing long-term housing stability through dedicated initiatives  
+- Connecting individuals with community resources that respect their history  
+- Providing a supportive environment where healing and growth can begin
+
+**Empowerment Through Respect**
+
+For a veteran transitioning to civilian life or a survivor seeking safety, the loss of autonomy is often a heavy burden. By centering our services on dignity, we help individuals reclaim their voices. We aren't just providing "assistance"; we are building a partnership based on mutual respect.
+
+Whether it’s through our housing stability initiatives or our community support programs, the goal is always the same: to empower our participants to lead their own lives. When a person feels respected and heard, they are more likely to engage deeply with the tools needed for lasting change. We focus on impact and transformation, ensuring every success story is a testament to the resilience of the human spirit.
+
+**How You Can Make a Difference**
+
+The "Honor Difference" is fueled by the compassion of people like you. Our community partnerships and volunteer impact are the engines that keep the Radiant Roadmap moving forward. When you support BOHH, you aren't just donating to a nonprofit: you are investing in the inherent dignity of your neighbors.
+
+There are several ways to get involved today:  
+- **Volunteer:** Share your time and skills to help mentor and support our participants.  
+- **Donate:** Your contributions directly fund our empowerment initiatives and housing support.  
+- **Partner:** We collaborate with local organizations to create a stronger, more inclusive support network.
+
+If you are ready to help us build a community where everyone is treated with the honor they deserve, visit us at https://bohh.org to learn more about our current opportunities. Together, we can turn the roadmap into a reality.`,  
+  image: "https://cdn.marblism.com/WptQj6cXTTw.webp"  
+}  ,
   {
-    id: 1,
+    id: 1000000000,
     title: "Building Stronger Communities Through Support",
     date: "2025-01-27",
     author: "BOHH Team",
@@ -26,7 +64,7 @@ This is the power of dignity-based community support—it creates ripple effects
     image: "https://cdn.marblism.com/GHhtLTgO3L4.webp"
   },
   {
-    id: 2,
+    id: 20000000,
     title: "The Radiant Roadmap: A Path to Empowerment",
     date: "2025-01-24",
     author: "BOHH Team",
@@ -53,7 +91,7 @@ We believe everyone has the potential to thrive—they just need the right suppo
     image: "https://cdn.marblism.com/IJelbKWlge8.webp"
   },
   {
-    id: 3,
+    id: 30000000000000,
     title: "Volunteer Spotlight: Making a Difference",
     date: "2025-01-22",
     author: "BOHH Team",
