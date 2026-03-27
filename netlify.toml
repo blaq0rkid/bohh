@@ -7,6 +7,12 @@
   NODE_VERSION = "18.20.8"
 
 [[redirects]]
+  from = "/thank-you.html"
+  to = "/thank-you.html"
+  status = 200
+  force = false
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
