@@ -78,6 +78,7 @@ const HomePage = () => {
           src="https://cdn.marblism.com/GHhtLTgO3L4.webp"
           alt="BOHH Hero"
           className="w-full h-full object-cover"
+          fetchpriority="high"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-gray-900 via-gray-900/70 to-transparent flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -247,14 +248,32 @@ const ServicesPage = () => {
   );
 };
 
-// Contact Form Component
+// Contact Form Component with Custom Submit Handler
 const ContactForm = () => {
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    const form = e.target;
+    const formData = new FormData(form);
+
+    try {
+      await fetch('/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(formData).toString()
+      });
+      
+      window.location.href = '/thank-you.html';
+    } catch (error) {
+      alert('There was an error submitting the form. Please try again.');
+    }
+  };
+
   return (
     <form
       name="contact"
       method="POST"
       data-netlify="true"
-      action="/thank-you.html"
+      onSubmit={handleSubmit}
       className="bg-white rounded-lg shadow-lg p-8"
     >
       <input type="hidden" name="form-name" value="contact" />
@@ -338,14 +357,32 @@ const ContactForm = () => {
   );
 };
 
-// Volunteer Form Component
+// Volunteer Form Component with Custom Submit Handler
 const VolunteerForm = () => {
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    const form = e.target;
+    const formData = new FormData(form);
+
+    try {
+      await fetch('/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(formData).toString()
+      });
+      
+      window.location.href = '/thank-you.html';
+    } catch (error) {
+      alert('There was an error submitting the form. Please try again.');
+    }
+  };
+
   return (
     <form
       name="volunteer"
       method="POST"
       data-netlify="true"
-      action="/thank-you.html"
+      onSubmit={handleSubmit}
       className="bg-white rounded-lg shadow-lg p-8"
     >
       <input type="hidden" name="form-name" value="volunteer" />
