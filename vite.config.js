@@ -12,7 +12,10 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: './index.html',
-        thankyou: './thank-you.html'
+        thankyou: './thank-you.html',
+        privacy: './privacy.html',
+        terms: './terms.html',
+        accessibility: './accessibility.html'
       }
     }
   },
