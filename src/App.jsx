@@ -5,6 +5,41 @@ import { Menu, X, Mail, Phone, MapPin, Calendar, ArrowLeft } from 'lucide-react'
 // Blog posts data - You can easily add new posts here
 const blogPosts = [
     {  
+  id: "974dd6f2-c66b-4e38-8c44-2b80fae5039f",  
+  title: "Family Support Services Matter: How to Find the Right Help When You Need It Most",  
+  date: "2026-03-30",  
+  author: "BOHH Team",  
+  slug: "family-support-services-matter-how-to-find-the-right-help",  
+  excerpt: "Discover how to navigate family support services with dignity. Learn how community-led resources empower you to build a stable, thriving future.",  
+  heroImage: "https://cdn.marblism.com/KVovbGv57QZ.webp",  
+  content: `  
+Life has a way of throwing curveballs when we least expect them. Whether it’s navigating a career change after military service, rebuilding life as a survivor of domestic violence, or simply trying to keep the lights on during a tough month, everyone needs a hand sometimes. 
+
+However, there is a big difference between a "handout" and a "hand up." At Black Orchid Honor House, we believe that **family support services** should be about empowerment, not just charity. When you are looking for help, you deserve to be treated with dignity and respect.
+
+### The Shift from Charity to Community
+
+In the past, many **support services for families** followed a "top-down" model: where an organization decides what you need without really getting to know you. We’re changing that narrative. True stability comes from a sense of belonging, not just a one-time service. 
+
+When you look for **nonprofit community resources**, seek out organizations that offer a "Radiant Roadmap." This means they aren't just putting a band-aid on a problem; they are helping you build a foundation for the future through housing stability, IT training, and emotional support.
+
+### What to Look For in Quality Support
+
+Finding the right fit for your family is about more than just checking boxes. Here is what you should look for in a support partner:
+
+*   **Dignity-First Approach:** Does the organization listen to your goals and respect your journey?  
+*   **Holistic Solutions:** Do they offer more than just the basics? Look for programs that include career development and mental health resources.  
+*   **A Sense of Belonging:** Do you feel like a member of a community or just a case number?  
+*   **Proven Impact:** Look for a track record of helping families move from crisis to long-term independence.
+
+### How to Start Your Journey
+
+Taking the first step is often the hardest part, but you don’t have to do it alone. Start by exploring local family resource centers or visiting [bohh.org](https://bohh.org) to see how our community-led initiatives can support your specific needs. 
+
+Whether you are a veteran looking for a new mission in the tech world or a parent seeking a safe place for your children to grow, there is a seat at the table for you. Real change happens from within the community, and we are honored to walk that path with you.  
+  `  
+},
+    {  
   "id": 4,  
   "title": "Community Engagement: The Heart of the Radiant Honor Roadmap™",  
   "date": "2026-03-27",  
