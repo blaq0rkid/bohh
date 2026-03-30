@@ -5,6 +5,114 @@ import { Menu, X, Mail, Phone, MapPin, Calendar, ArrowLeft } from 'lucide-react'
 // Blog posts data - You can easily add new posts here
 const blogPosts = [
     {  
+  id: "friday-apr-3-2026",  
+  title: "The Four Pillars of Stability: Building a Foundation That Lasts with the Radiant Honor Roadmap™",  
+  date: "2026-04-03",  
+  author: "BOHH Team",  
+  slug: "four-pillars-of-stability-radiant-honor-roadmap",  
+  excerpt: "Learn how Black Orchid Honor House uses the Radiant Honor Roadmap™ to provide a holistic foundation for veterans and survivors seeking lasting stability.",  
+  image: "https://cdn.marblism.com/Z9sFmldDJ2z.webp",  
+  content: `  
+At Black Orchid Honor House, we believe that true transformation begins with a solid foundation. For our veterans and survivors of domestic violence, the path to independence isn’t just about finding a temporary solution: it is about building a life rooted in dignity and resilience. To guide this journey, we developed the **Radiant Honor Roadmap™**, a holistic framework designed to support every aspect of an individual’s transition.
+
+The Roadmap is built upon the **Four Pillars of Stability**. These pillars represent the essential components needed to move from crisis to thriving.
+
+### 1. Housing Stability  
+Everything begins with a safe place to call home. **Housing stability** is our first priority because healing cannot happen in a state of constant uncertainty. We focus on providing secure, dignified environments where individuals can exhale, find peace, and begin the work of rebuilding their lives without the weight of housing insecurity.
+
+### 2. Career Empowerment  
+Economic independence is a vital step toward long-term freedom. Through **career empowerment**, we offer more than just job placement. We provide mentorship, skill-building, and resources that align with an individual’s strengths and passions. By fostering professional growth, we help our residents reclaim their sense of purpose and financial agency.
+
+### 3. Emotional Wellness  
+The journey toward stability is as much internal as it is external. **Emotional wellness** focuses on healing the invisible wounds. Through trauma-informed care and supportive counseling, the Radiant Honor Roadmap™ ensures that every person has the mental and emotional tools to navigate life’s challenges with confidence and grace.
+
+### 4. Community Integration  
+No one should have to walk the path to recovery alone. **Community integration** is the final pillar that ensures lasting success. We bridge the gap between our residents and the wider community, fostering meaningful connections and volunteer opportunities. This sense of belonging creates a safety net of support that lasts long after a resident has transitioned to independent living.
+
+### Building the Future Together  
+The Radiant Honor Roadmap™ is more than a program; it is a promise that every veteran and survivor who walks through our doors is seen, heard, and valued. By focusing on these four pillars, we aren't just providing services: we are building a foundation that lasts.  
+`  
+},
+    {  
+  id: "wednesday-apr-1-2026",  
+  title: "Family Support Services Matter: How to Find the Right Help When You Need It Most",  
+  date: "2026-04-01",  
+  author: "BOHH Team",  
+  slug: "find-the-right-help-family-support",  
+  excerpt: "Discover how to navigate family support services with dignity. Learn how community-led resources empower you to build a stable, thriving future.",  
+  image: "https://cdn.marblism.com/KVovbGv57QZ.webp",  
+  content: `  
+Life has a way of throwing curveballs when we least expect them. Whether it’s navigating a career change after military service, rebuilding life as a survivor of domestic violence, or simply trying to keep the lights on during a tough month, everyone needs a hand sometimes. 
+
+However, there is a big difference between a "handout" and a "hand up." At Black Orchid Honor House, we believe that **family support services** should be about empowerment, not just charity. When you are looking for help, you deserve to be treated with dignity and respect.
+
+### The Shift from Charity to Community
+
+In the past, many **support services for families** followed a "top-down" model: where an organization decides what you need without really getting to know you. We’re changing that narrative. True stability comes from a sense of belonging, not just a one-time service. 
+
+When you look for **nonprofit community resources**, seek out organizations that offer a "Radiant Roadmap." This means they aren't just putting a band-aid on a problem; they are helping you build a foundation for the future through housing stability, IT training, and emotional support.
+
+### What to Look For in Quality Support
+
+Finding the right fit for your family is about more than just checking boxes. Here is what you should look for in a support partner:
+
+*   **Dignity-First Approach:** Does the organization listen to your goals and respect your journey?  
+*   **Holistic Solutions:** Do they offer more than just the basics? Look for programs that include career development and mental health resources.  
+*   **A Sense of Belonging:** Do you feel like a member of a community or just a case number?  
+*   **Proven Impact:** Look for a track record of helping families move from crisis to long-term independence.
+
+### How to Start Your Journey
+
+Taking the first step is often the hardest part, but you don’t have to do it alone. Start by exploring local family resource centers or visiting [bohh.org](https://bohh.org) to see how our community-led initiatives can support your specific needs. 
+
+Whether you are a veteran looking for a new mission in the tech world or a parent seeking a safe place for your children to grow, there is a seat at the table for you. Real change happens from within the community, and we are honored to walk that path with you.  
+`  
+},
+    {  
+  id: "monday-mar-30-2026",  
+  title: "The Ultimate Guide to Family Support Services: Everything You Need to Rebuild with Dignity",  
+  date: "2026-03-30",  
+  author: "BOHH Team",  
+  slug: "guide-to-family-support-services-rebuild-dignity",  
+  excerpt: "Navigate community resources with the Radiant Honor Roadmap™. Discover how to move from 'aid' to true 'belonging' while rebuilding your life.",  
+  image: "https://cdn.marblism.com/H2AmiQQeyMf.webp",  
+  content: `  
+When life feels like a steep climb, you shouldn’t have to do it alone. Whether you are a veteran transitioning to civilian life, a survivor of domestic violence seeking a fresh start, or a family simply trying to find steady ground, the right support can make all the difference. 
+
+But here’s the thing: not all support is created equal. At Black Orchid Honor House, we believe in a shift from "aid" to "belonging." It’s about more than just checking a box or receiving a handout; it’s about rebuilding your life with the respect and dignity you deserve.
+
+### Understanding Family Support Services
+
+In its simplest form, **family support services** are community-based programs designed to strengthen families and prevent crises. They connect you with local networks that focus on your strengths rather than your struggles. 
+
+When you look for **nonprofit community resources**, you aren’t just looking for a service: you are looking for a partnership. High-quality support should be holistic, covering everything from basic needs like housing stability to long-term goals like career development in IT or technology.
+
+### The Radiant Honor Roadmap™: Your Path Forward
+
+At Black Orchid Honor House, we utilize the **Radiant Honor Roadmap™**. This isn't a one-size-fits-all plan. It’s a specialized guide designed to help individuals navigate the complex world of **support services for families** while maintaining their agency.
+
+The roadmap focuses on four key pillars:  
+*   **Housing Stability:** Creating a safe, permanent space to call home.  
+*   **Career Empowerment:** Gaining modern skills, such as IT training, to ensure financial independence.  
+*   **Emotional Wellness:** Accessing mental health resources that prioritize healing and resilience.  
+*   **Community Integration:** Moving from a place of isolation to a place of belonging within **community empowerment programs**.
+
+### Rebuilding with Dignity
+
+Rebuilding your life is hard work, and it’s okay to ask for help. The key is finding a community that sees your potential. When you engage with BOHH, you are joining a mission-driven family that values your service and your story.
+
+Dignity-based support means you have a seat at the table. It means your voice matters in the conversation about your own future. Whether you are navigating legal hurdles, looking for parenting resources, or seeking a new career path, the goal is always sustainable independence.
+
+### How to Get Started
+
+If you’re ready to take the next step, start by exploring the resources available in your neighborhood. Look for organizations that offer person-first care and comprehensive case management. 
+
+We invite you to learn more about our specific initiatives and how we can help you find your "Radiant Roadmap" by visiting [bohh.org](https://bohh.org). There is a community waiting to welcome you home.
+
+Remember: you aren't just a "client" or a "case number." You are a vital part of our community, and together, we can build a foundation that lasts.  
+`  
+},
+    {  
   id: "00c16a23-3e58-4924-aa0b-46cbeee458be",  
   title: "The Ultimate Guide to Family Support Services: Everything You Need to Rebuild with Dignity",  
   date: "2026-03-30",  
