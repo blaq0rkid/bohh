@@ -5,6 +5,118 @@ import { Menu, X, Mail, Phone, MapPin, Calendar, ArrowLeft } from 'lucide-react'
 // Blog posts data - You can easily add new posts here
 const blogPosts = [
     {  
+  id: "4817ca07-faeb-475d-96ea-94850d721f42",  
+  title: "Why Our Social Impact Programs Will Change the Way You Think About Charity",  
+  date: "2026-04-17",  
+  author: "BOHH Team",  
+  excerpt: "Discover how Black Orchid Honor House is flipping the script on traditional charity by focusing on honor, shared ownership, and the Radiant Honor Roadmap™.",  
+  image: "https://cdn.marblism.com/X7L9NlnNw5k.webp",  
+  content: `# Why Our Social Impact Programs Will Change the Way You Think About Charity
+
+Traditional charity is frequently built on a "top-down" model: one person has the resources, the other doesn't, and the interaction ends once the resource is handed over. At Black Orchid Honor House (BOHH), we’re stepping into something way more revolutionary: **honor-based belonging.**
+
+### The Problem with "Top-Down" Thinking
+
+Standard nonprofit models are often "band-aid" approaches that strip away dignity and replace it with dependency. We’re flipping that script. Our **community empowerment programs** aren't designed to "save" anyone; they are designed to partner with people—specifically DV survivors and veterans—to reclaim their narrative.
+
+### The Radiant Honor Roadmap™
+
+Our operational DNA moves individuals through four phases:  
+1.  **Stabilization:** Housing stability led by dignity.  
+2.  **Belonging:** Integration into a community where you are seen and heard.  
+3.  **Shared Ownership:** Moving from "consumption" to "contribution." Participants are partners.  
+4.  **Radiance:** Graduates become the teachers and leaders of the next generation.
+
+### Why Shared Ownership is the Secret Sauce
+
+Shared ownership turns a service into an investment. When a veteran helps design a new wing of the Honor House, they aren't just receiving help; they are building the house. This builds a level of self-worth that no "charity" check can ever buy.
+
+### Moving Beyond the Savior Complex
+
+At BOHH, we check the ego at the door. We aren't the heroes of the story; our community members are. We provide the framework, but the hard work of transformation is done by the people who walk through our doors.
+
+Ready to see what honor-based belonging looks like in action? Let’s stop "giving back" and start "building forward."`  
+},
+    {  
+  id: "4b8926ac-497b-4866-89c5-eac5921fa393",  
+  title: "How to Build a Legacy with Community Development Programs and Shared Ownership",  
+  date: "2026-04-15",  
+  author: "BOHH Team",  
+  excerpt: "Discover how shared ownership and honor-based community development programs create lasting legacies and true belonging for survivors and veterans.",  
+  image: "https://cdn.marblism.com/rFTfhGRJimf.webp",  
+  content: `# How to Build a Legacy with Community Development Programs and Shared Ownership
+
+Legacy isn't just about what you leave behind in a bank account; it’s about the roots you plant in your community. For the veterans and survivors we walk alongside, building a legacy starts with a shift from "just getting by" to "owning the future."
+
+### The Power of Shared Ownership
+
+One of the most effective ways to build a lasting legacy is through shared ownership. In models like Community Land Trusts (CLTs), the community or a nonprofit owns the land, while the residents own the homes or the equity in them. 
+
+**Why does this matter for a legacy?**  
+1.  **Permanent Affordability:** It ensures housing stays affordable for the next generation.  
+2.  **Wealth Building:** Residents build stable, guaranteed equity.  
+3.  **Democratic Control:** Decisions are made by the people living there, not distant developers.
+
+When a survivor or veteran enters a shared ownership program, they aren't just "renting" stability. They are investing in a piece of the world that belongs to them.
+
+### Implementing the Radiant Honor Roadmap™
+
+Building a legacy happens in phases:  
+*   **Phase 1: Stabilization.** Immediate safety and dignity-based support.  
+*   **Phase 2: Healing & Growth.** Focusing on the "whole-family" approach.  
+*   **Phase 3: Ownership & Leadership.** Engaging with programs that offer shared equity or leadership roles.
+
+### Why "Honor-Based" Care Changes the Game
+
+**Honor-based care** starts with the assumption that you are capable and resilient. We use dignity-first language and person-first design to ensure your voice is the one that matters. When you focus on asset-building—like shared equity homeownership or educational partnerships—you fight displacement and build true security.
+
+Let’s stop settling for temporary fixes. Let’s start building something that lasts.`  
+},
+    {  
+  id: "bdc86fd0-ac71-4e1c-a589-0fb7d98453d0",  
+  title: "How to Choose the Best Youth and Family Support (And Why Honor-Based Care Wins)",  
+  date: "2026-04-13",  
+  author: "BOHH Team",  
+  excerpt: "Discover how to navigate family support services by prioritizing dignity and the Radiant Honor Roadmap™ over traditional top-down aid.",  
+  image: "https://cdn.marblism.com/zUSkdQ6APVk.webp",  
+  content: `# How to Choose the Best Youth and Family Support (And Why Honor-Based Care Wins)
+
+When you are navigating a difficult season—whether you are a domestic violence survivor reclaiming your independence, a veteran transitioning back to civilian life, or a parent trying to provide a stable foundation for your children—the search for "help" can feel like a full-time job. 
+
+Choosing the right **youth and family support** isn’t just about finding someone to help pay a bill or offer a one-time counseling session. It’s about finding a partner that recognizes your inherent worth. At Black Orchid Honor House (BOHH), we believe you deserve more than just a service. You deserve a community.
+
+### The Problem with the "Top-Down" Approach
+
+For decades, many **community empowerment programs** have operated on a top-down model. In this setup, "experts" decide what a family needs, hand out resources, and expect the family to be grateful. While well-intentioned, this model often strips people of their agency and dignity. 
+
+When looking for **local community support**, look for these red flags:  
+*   **Case-Number Mentality:** Do you feel like a person or a statistic?  
+*   **One-Size-Fits-All Solutions:** Are they listening to your specific story?  
+*   **Lack of Long-Term Vision:** Is the help only for the next 24 hours?
+
+### Introducing Honor-Based Belonging
+
+At BOHH, we’ve ditched "aid" for **Honor-Based Belonging**. Honor-based care means we start from a place of respect. We don’t see "broken" people; we see resilient individuals navigating challenges. Our goal is to create an environment that feels like home, decked out in charcoal and orchid purple, symbolizing strength and beauty.
+
+### Navigating the Radiant Honor Roadmap™
+
+We use the **Radiant Honor Roadmap™** to move from crisis to leadership:
+
+1.  **Stability (The Charcoal Foundation):** Focus on safety and essentials like secure housing or navigating benefits.  
+2.  **Identity (The Orchid Bloom):** Reclaiming who you are through community empowerment and rediscovering your voice.  
+3.  **Legacy (The Radiant Light):** Healing happens when you have the opportunity to lead and give back as a mentor.
+
+### 5 Questions to Ask
+
+1.  Does this program treat me with dignity?  
+2.  Is there a clear path to stability (like the Radiant Honor Roadmap™)?  
+3.  Are the services family-centered?  
+4.  How do they measure success?  
+5.  Can I see myself belonging here?
+
+Trust your gut. You’ll know you’ve found the right place when you stop feeling like a "case" and start feeling like home.`  
+},
+    {  
   id: "friday-apr-3-2026",  
   title: "The Four Pillars of Stability: Building a Foundation That Lasts with the Radiant Honor Roadmap™",  
   date: "2026-04-03",  
