@@ -362,7 +362,110 @@ Volunteering with BOHH isn't just about giving back—it's about being part of a
 
 Whether you have a few hours a week or a few hours a month, we have opportunities that match your schedule and skills. Join us in building stronger communities!`,
     image: "https://cdn.marblism.com/GHhtLTgO3L4.webp"
-  }
+  },
+    {  
+  id: "01042dbe-f8b2-45dc-a5b4-cd8a643d9780",  
+  title: "From Safety to Strength: A Dignity-First Housing Stability Plan for DV Survivors",  
+  date: "2026-04-13",  
+  author: "BOHH Team",  
+  excerpt: "Discover how the Radiant Honor Roadmap transforms housing from a basic need into a foundation for lifelong legacy and strength.",  
+  image: "https://cdn.marblism.com/W8OpxLC1FSY.webp",  
+  content: `At Black Orchid Honor House, we believe that housing is more than just a roof and four walls: it is the foundation of human dignity. For survivors of domestic violence, finding safety is the first step, but staying safe requires a roadmap that leads toward permanent independence and strength.
+
+Our approach isn't about "fixing" a temporary crisis; it’s about partnering with survivors to reclaim their lives. We utilize a dignity-first framework that recognizes every person as the expert in their own journey. By removing the barriers to stable housing, we create the space necessary for deep, lasting healing.
+
+**The Radiant Honor Roadmap**
+
+To move from the shadows of survival into the light of a self-determined life, we follow our Radiant Honor Roadmap. This four-stage process ensures that every step taken is a step toward permanent stability.
+
+**1. Stabilization**    
+The first priority is always immediate safety. We focus on rapid connection to secure housing without the red tape. By providing flexible support and trauma-informed advocacy, we ensure that survivors have a calm, private space to breathe. This stage is about grounding the individual and ensuring their basic needs are met with respect and warmth.
+
+**2. Identity**    
+Once the door is locked and the environment is safe, the real work of the heart begins. This stage focuses on rediscovering who you are outside of the trauma. We provide resources that help survivors reconnect with their personal values, strengths, and goals. It’s about moving from "survivor" to "individual."
+
+**3. Stewardship**    
+Stewardship is where we build the muscles of independence. This involves mastering the skills needed to maintain a home and a healthy life. From financial literacy to community engagement, we empower our residents to take full ownership of their environment and their choices. We work alongside survivors to build relationships with local landlords and community stakeholders, ensuring they have a seat at the table.
+
+**4. Legacy**    
+The final stage of the roadmap is about looking forward. We don't just want our residents to be stable; we want them to thrive and eventually lead. Legacy is about building a future where survivors can give back to their community, mentor others, and create a generational impact of peace and honor.
+
+**A Community of Strength**
+
+Housing stability is a community effort. By prioritizing dignity, we aren't just providing a service: we are building a movement. When we treat housing as a basic right and survivors as capable leaders, the entire community becomes stronger.
+
+If you are ready to help us build this foundation of honor, we invite you to learn more about our mission and how you can get involved. Together, we can turn safety into a lasting legacy.
+
+Visit us at https://bohh.org to join the journey.`  
+},
+{  
+  id: "33b2212b-5050-453d-91fd-37a70d55a983",  
+  title: "Veterans Deserve More Than a Handout: The Honor-Based Roadmap to Housing Stability",  
+  date: "2026-04-13",  
+  author: "BOHH Team",  
+  excerpt: "Discover how Black Orchid Honor House uses a dignity-first roadmap to provide veterans with the stability and community they’ve earned.",  
+  image: "https://cdn.marblism.com/ukIAs63uTi6.webp",  
+  content: `At Black Orchid Honor House, we believe that when a veteran returns home, a set of keys is only the beginning. For too long, the solution to veteran homelessness has been treated like a checklist: find a bed, provide a meal, and move on. But our heroes deserve more than just a handout. They deserve a foundation of honor that supports their transition back into the community with dignity.
+
+### The Foundation of the Radiant Honor Roadmap
+
+True stability isn't just about four walls and a roof; it’s about the support system inside them. Our **Radiant Honor Roadmap** is designed to move beyond the "temporary fix." We recognize that the first few months after exiting homelessness are the most critical. This is a period of high vulnerability where many veterans feel isolated or overwhelmed by the sudden shift in environment.
+
+Instead of leaving our veterans to navigate this alone, we provide a tapered, intentional support system. This means we are there every step of the way: providing furniture, household essentials, and a friendly face: while gradually empowering the veteran to reclaim their independence.
+
+### Wraparound Care for the Whole Person
+
+Stability requires addressing the interconnected challenges that many veterans face, from navigating VA benefits to accessing specialized mental health services. Our approach integrates:
+
+- **Holistic Health:** Coordinating primary care and substance use treatment when needed.    
+- **Safety and Consistency:** Creating environments where veterans feel secure and respected.    
+- **Relational Support:** Building a network of peers and volunteers who understand the unique journey of military service.  
+
+By treating housing as a starting point for healing rather than a final destination, we’ve seen incredible results. When a veteran feels stable, they don’t just stay housed: they thrive. They reconnect with family, pursue new careers, and become the leaders our community needs.
+
+### Empowerment Through Community
+
+We can’t do this work in a vacuum. Community empowerment is at the heart of everything we do at Black Orchid Honor House. Whether it’s through local partnerships or the tireless work of our volunteers, every contribution helps fuel the Radiant Honor Roadmap.
+
+We invite you to be a part of this mission. We aren’t just offering shelter; we are building a future where every veteran is honored for their service through lasting stability and genuine care.
+
+Ready to make an impact? Visit https://bohh.org to learn how you can support our veterans or join our volunteer network today. Together, we can turn a handout into a homecoming.`  
+},
+{  
+  id: "c98e6267-58ba-49ca-b90e-a9adbba218f6",  
+  title: "Community Empowerment That Actually Works: Turning Local Support Into Long-Term Legacy",  
+  date: "2026-04-13",  
+  author: "BOHH Team",  
+  excerpt: "Discover how Black Orchid Honor House transforms local support into a lasting legacy of stability for veterans and survivors.",  
+  image: "https://cdn.marblism.com/-39QGvmaPTq.webp",  
+  content: `At Black Orchid Honor House, we believe that true empowerment isn't just about providing a temporary roof; it’s about building a foundation that lasts for generations. When we talk about community empowerment, we aren't just talking about a buzzword. We are talking about a strategic, heart-centered approach to turning immediate local support into a long-term legacy of independence.
+
+### The Radiant Honor Roadmap
+
+The journey from crisis to stability requires more than just luck: it requires a map. Our **Radiant Honor Roadmap** is designed specifically to guide domestic violence (DV) survivors and veterans through the complexities of reclaiming their lives. By focusing on dignity-based support, we ensure that every individual feels seen, heard, and valued.
+
+Empowerment works best when it is community-led. Instead of external solutions being forced upon those in need, we lean into our local support networks. Whether it is a veteran looking for a stable place to call home or a survivor seeking a fresh start, our roadmap provides the tools for housing stability and emotional healing.
+
+### Why Local Networks Matter
+
+Local support is the lifeblood of our mission. When neighbors show up for neighbors, the impact is profound. By building capacity and skills within our own zip codes, we create a safety net that is both resilient and responsive.
+
+- **Volunteer Impact:** Our volunteers don't just give time; they share expertise that builds local capacity.    
+- **Strategic Partnerships:** By aligning with local businesses and organizations, we broaden the resources available to our participants.    
+- **Dignity-First Language:** We center every interaction on respect, recognizing the incredible strength of the people we serve.  
+
+### From Stability to Legacy
+
+Housing stability is the first step, but the "Long-Term Legacy" comes from what happens next. Through mentorship and peer-to-peer learning, our residents become leaders. We’ve seen survivors transform into advocates and veterans become mentors. This cycle of support ensures that the empowerment we ignite today continues to glow for years to come.
+
+Sustainable change isn't a solo mission. It takes a village committed to the idea that everyone deserves a life of honor and peace. When we invest in people through the Radiant Honor Roadmap, we aren't just solving a problem for today: we are securing a brighter future for the entire community.
+
+### Join the Movement
+
+Ready to make a difference that lasts? Whether you want to volunteer, partner with us, or learn more about our housing initiatives, there is a place for you here.
+
+Let’s build this legacy together. Visit https://bohh.org to see how you can get involved today.`  
+}
 ];
 
 // Navigation Component
