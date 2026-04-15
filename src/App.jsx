@@ -465,7 +465,34 @@ Sustainable change isn't a solo mission. It takes a village committed to the ide
 Ready to make a difference that lasts? Whether you want to volunteer, partner with us, or learn more about our housing initiatives, there is a place for you here.
 
 Let’s build this legacy together. Visit https://bohh.org to see how you can get involved today.`  
-}
+},
+    {  
+    "id": "f58c5d48-029b-43b5-8ea2-1ad23040d544",  
+    "title": "The Power of Honor: Why We’re Redefining Community Support at Black Orchid Honor House",  
+    "date": "2026-04-13",  
+    "author": "BOHH Team",  
+    "excerpt": "We’re moving beyond traditional charity. Learn how Black Orchid Honor House uses dignity-based support and the Radiant Roadmap to empower survivors and veterans.",  
+    "content": "# The Power of Honor: Why We’re Redefining Community Support at Black Orchid Honor House\n\n![[HERO] The Power of Honor: Why We’re Redefining Community Support at Black Orchid Honor House](https://cdn.marblism.com/3tPKcMDTvhZ.webp)\n\nHey there, community. Kelley Crowell here.\n\nWhen we first started Black Orchid Honor House, I spent a lot of time thinking about the word \"charity.\" ... [Content continues as seen in ]",  
+    "thumbnail": "https://cdn.marblism.com/3tPKcMDTvhZ.webp"  
+  },  
+  {  
+    "id": "7dc0497f-1bb0-4cad-bef5-d40ed4598fbe",  
+    "title": "From Surviving to Thriving: How Honor-Based Empowerment Changes Lives",  
+    "date": "2026-04-13",  
+    "author": "BOHH Team",  
+    "excerpt": "Discover how Black Orchid Honor House uses dignity-first empowerment to help individuals move from survival to creating a lasting legacy.",  
+    "content": "# From Surviving to Thriving: How Honor-Based Empowerment Changes Lives\n\n![[HERO] From Surviving to Thriving: How Honor-Based Empowerment Changes Lives](https://cdn.marblism.com/tU7oLPBhEMt.webp)\n\nHey there! If you’ve been following our journey at Black Orchid Honor House (BOHH), you know we talk a lot about \"empowerment.\" ... [Content continues as seen in ]",  
+    "thumbnail": "https://cdn.marblism.com/tU7oLPBhEMt.webp"  
+  },  
+  {  
+    "id": "71d94f32-494b-42a0-80e0-c142672df711",  
+    "title": "The Ultimate Guide to Nonprofit Community Resources: Everything You Need to Find Stability and Growth",  
+    "date": "2026-04-15",  
+    "author": "BOHH Team",  
+    "excerpt": "Discover how to access community support with dignity through our guide to stability, growth, and the Radiant Roadmap at Black Orchid Honor House.",  
+    "content": "# The Ultimate Guide to Nonprofit Community Resources: Everything You Need to Find Stability and Growth\n\n![[HERO] The Ultimate Guide to Nonprofit Community Resources: Everything You Need to Find Stability and Growth](https://cdn.marblism.com/S9JsciNscwi.webp)\n\nHey there, and welcome. If you’re reading this, chances are you’re looking for a little bit of solid ground. ... [Content continues as seen in ]",  
+    "thumbnail": "https://cdn.marblism.com/S9JsciNscwi.webp"  
+  }
 ];
 
 // Navigation Component
